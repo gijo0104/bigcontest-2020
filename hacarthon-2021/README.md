@@ -1,8 +1,6 @@
 # 자동차 재구매 유형 구분 로직 및 재구매 가능성(Scroe) 예측 모델 개발
 
-# Introduction
-
----
+## Introduction
 
 **주제** | 고객 구매 데이터를 통해 자동차 재구매 유형(대차, 추가구매)을 구분 및 재구매 가능성 점수 모델링
 
@@ -18,9 +16,7 @@
 
 **결과** | 1차 심사 통과 (2차 참가 X)
 
-# Directories
-
----
+## Directories
 
 ```bash
 ├── problems.pdf
