@@ -1,8 +1,6 @@
 # 서울시 도시데이터 센서(S-DoT) 위치선정
 
-# Introduction
-
----
+## Introduction
 
 **주제** | 도시데이터 센서 현황정보 등을 활용하여 추가로 필요한 센서의 위치와 측정 항목 도출
 
@@ -18,9 +16,7 @@
 
 **결과** | COMPAS (서울시) 도시데이터 센서(S-DoT) 위치선정 우수상(2위)
 
-# Directories
-
----
+## Directories
 
 ```bash
 ├── notebook code.ipynb
